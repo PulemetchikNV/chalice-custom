@@ -1760,6 +1760,28 @@
 			"settings": {
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"name": "entity.name.tag.html",
+			"scope": "entity.name.tag.html",
+			"settings": {
+				"foreground": "#88adb9",
+			}
+		},
+		{
+			"name": "entity.name.tag.template.html.vue",
+			"scope": "entity.name.tag.template.html.vue",
+			"settings": {
+				"foreground": "#6fa8bbe0",
+			}
+		},
+		//	punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html
+		{
+			"name": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html",
+			"scope": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html",
+			"settings": {
+				"foreground": "#b39b78",
+			}
 		}
 	],
 	//   "tokenColors": [
